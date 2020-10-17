@@ -1,6 +1,8 @@
-### Summary
-Data engineer generalist with progressive IT experience. Skills include analytical thinking, creative problem solving, databases, ci/cd tools, observability, programming languages, digital certificates and ETL. Able to apply devops concepts to improve experience for clients. Thirst for knowledge and curious complete my profile.
+### Hello, Welcome to my profile!
 
+I am a data engineer generalist with progressive IT experience. Skills include analytical thinking, creative problem solving, databases, ci/cd tools, observability, programming languages, digital certificates and ETL. Able to apply devops concepts to improve experience for clients. Thirst for knowledge and curious complete my profile.
+
+Here I am leaning things like: javascript, mongo, react, node, etc..
 
 <center>
 <table>
@@ -10,3 +12,5 @@ Data engineer generalist with progressive IT experience. Skills include analytic
     </tr>   
 </table>
 </center>
+
+![](https://komarev.com/ghpvc/?username=joaofer&color=blue&style=flat)
